@@ -1,2 +1,2 @@
 # gordianagency
-Coming Soon page for gordian
+Coming Soon page for Gordian Agency
