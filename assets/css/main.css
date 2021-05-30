@@ -188,6 +188,7 @@ body{
 }
 .partner-sec, .services-sec, .success, .purpose, .process-sec, .faq-sec{
     padding:60px 0px;
+    overflow: hidden;
 }
 .about{
     padding: 135px 0px 60px 0px;
