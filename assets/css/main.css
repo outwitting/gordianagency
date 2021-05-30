@@ -395,6 +395,9 @@ footer{
 .txt-center{
     text-align: center;
 }
+.modal {
+    color: #000;
+}
 @media only screen and (max-width: 374px) and (min-width: 320px) {
     .about h1:before {
         width: 71%;
